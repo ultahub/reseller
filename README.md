@@ -21,7 +21,7 @@ A white-label VPN reseller platform built with Laravel. Sell premium VPN service
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/ultavpn-reseller.git
+git clone https://github.com/ultahub/reseller.git
 cd ultavpn-reseller
 
 # 2. Install PHP dependencies
