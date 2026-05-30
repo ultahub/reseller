@@ -67,6 +67,11 @@ After setup, access these URLs:
 - **Reseller Login** — `http://localhost:8000/login`
 - **Setup Wizard** — `http://localhost:8000/setup`
 
+## Reseller Demo
+
+- **Reseller Demo URL** — `https://reseller-demo.ultavpn.com/`
+- **Demo Reseller Login** — Contact **support@ultavpn.com** to request demo credentials.
+
 ## API Documentation
 
 For API documentation and integration details, contact **support@ultavpn.com** or visit **[https://ultavpn.com](https://ultavpn.com)**.
@@ -75,6 +80,7 @@ For API documentation and integration details, contact **support@ultavpn.com** o
 
 **Ian Rey A. Torres**  
 Philippines
++639615706293
 
 ## License
 
