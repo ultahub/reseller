@@ -1,0 +1,46 @@
+/* Custom styles for UltaVPN Reseller Demo */
+
+html {
+    scroll-behavior: smooth;
+}
+
+.payment-option {
+    cursor: pointer;
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus {
+    -webkit-box-shadow: 0 0 0 30px white inset;
+    -webkit-text-fill-color: #111;
+}
+
+/* Stripe card element styling */
+.StripeElement {
+    width: 100%;
+}
+
+/* Smooth transitions for all interactive elements */
+a, button, input, select, textarea {
+    transition: all 0.15s ease;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+    width: 6px;
+}
+::-webkit-scrollbar-track {
+    background: transparent;
+}
+::-webkit-scrollbar-thumb {
+    background: #e5e7eb;
+    border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #d1d5db;
+}
+
+/* Disable transitions on page load to avoid flash */
+.preload * {
+    transition: none !important;
+}
