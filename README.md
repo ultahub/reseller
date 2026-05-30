@@ -69,7 +69,7 @@ After setup, access these URLs:
 
 ## Reseller Demo
 
-- **Reseller Demo URL** — `https://reseller-demo.ultavpn.com/`
+- **Reseller Demo URL** — `https://reseller-demo.ultavpn.com`
 - **Demo Reseller Login** — Contact **support@ultavpn.com** to request demo credentials.
 
 ## API Documentation
