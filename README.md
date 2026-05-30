@@ -74,7 +74,7 @@ After setup, access these URLs:
 
 ## API Documentation
 
-For API documentation and integration details, contact **support@ultavpn.com** or visit **[https://ultavpn.com](https://ultavpn.com)**.
+For API documentation and integration details, contact **support@ultavpn.com** or visit **[https://ultavpn.com](https://ultavpn.com)**
 
 ## Developer
 
