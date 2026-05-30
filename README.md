@@ -79,8 +79,11 @@ For API documentation and integration details, contact **support@ultavpn.com** o
 ## Developer
 
 **Ian Rey A. Torres**  
-Philippines
-+639615706293
+Full-Stack Web Developer & Systems Administrator  
+Philippines  
+
+📧 support@ultavpn.com  
+📱 +63 961 570 6293
 
 ## License
 
